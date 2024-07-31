@@ -1,0 +1,6 @@
+2024-07-31 09:59:36,627 - INFO - Running Production Setup
+2024-07-31 09:59:37,158 - INFO - Downloaded frappe_docker zip file from GitHub
+2024-07-31 09:59:37,227 - INFO - Unzipped and Renamed frappe_docker
+2024-07-31 09:59:37,227 - INFO - Removed the downloaded zip file
+2024-07-31 10:00:48,950 - INFO - Docker Compose file generated at ~/frappe-compose.yml
+2024-07-31 10:02:37,655 - INFO - New site creation completed
